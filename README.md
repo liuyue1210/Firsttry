@@ -1,1 +1,2 @@
 # Firsttry
+print 'hello'
